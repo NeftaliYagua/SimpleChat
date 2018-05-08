@@ -2,6 +2,7 @@
   "name": "Chat", 
     "description": "Simple example of use for Socket.IO",
     "version": "0.0.1",
+    "main": "chat.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
